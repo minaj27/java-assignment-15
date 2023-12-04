@@ -1,0 +1,19 @@
+#main{
+    border: 5px solid red;
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin: 20PX;
+    margin: auto;
+}
+button{
+    margin: 10PX;
+    background-color: coral;
+    border: none;
+    color: white;
+    padding: 10px;
+}
+input{
+    display: flex;
+    
+}
